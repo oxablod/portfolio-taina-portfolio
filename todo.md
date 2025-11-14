@@ -26,3 +26,9 @@
 - [ ] SEO básico
 - [ ] Performance
 - [ ] Acessibilidade
+
+## Ajustes Solicitados
+- [x] Remover linhas sobre migração Delphi para Node.js + Angular da Xpert
+- [x] Remover linha sobre arquitetura backend com Node.js da Xpert
+- [x] Adicionar detalhes sobre integração com máquinas POS existentes
+- [ ] Fazer push para o repositório GitHub (portfolio-taina-portfolio)

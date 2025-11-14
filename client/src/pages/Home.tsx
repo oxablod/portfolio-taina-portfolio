@@ -18,10 +18,11 @@ export default function Home() {
       location: "Pato Branco",
       period: "Fevereiro 2025 - Atual",
       highlights: [
-        "Otimização de experiência de venda em POS nativo para frentistas",
-        "Migração de plataforma web legada de Delphi para Node.js + Angular",
-        "Desenvolvimento em Java 8 até Java 21 (LTS)",
-        "Arquitetura e desenvolvimento backend com Node.js",
+        "Liderança do ciclo completo de desenvolvimento de aplicativo nativo para frentistas em terminais POS",
+        "Integração profunda com máquinas POS existentes: comunicação serial, protocolos proprietários e APIs de pagamento",
+        "Centralização e digitalização integral do processo de venda e abastecimento com ganhos significativos de eficiência operacional",
+        "Implementação de rotinas sistêmicas críticas para gestão de dados e conformidade regulatória nas operações de frente de caixa",
+        "Desenvolvimento em Java 8 até Java 21 (LTS) com foco em performance e segurança",
       ],
     },
     {
