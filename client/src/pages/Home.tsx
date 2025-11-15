@@ -203,7 +203,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Localização</p>
-                  <p className="font-medium">Pato Branco, SC</p>
+                  <p className="font-medium">Pato Branco, PR</p>
                 </div>
               </CardContent>
             </Card>
